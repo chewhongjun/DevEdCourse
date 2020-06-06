@@ -1,0 +1,27 @@
+h1 {
+  color: cornflowerblue;
+}
+
+.random h1 {
+  color: blueviolet;
+}
+
+* {
+  font-size: small;
+}
+
+.my-list + ul {
+  list-style: none;
+}
+
+.nav-links > li {
+  color: fuchsia;
+}
+
+.nav-links li a {
+  color: black;
+}
+
+.links li:nth-child(1) {
+  color: darkgoldenrod;
+}
